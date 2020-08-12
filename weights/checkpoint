@@ -1,0 +1,2 @@
+model_checkpoint_path: "bark_weights"
+all_model_checkpoint_paths: "bark_weights"
